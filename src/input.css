@@ -1,0 +1,28 @@
+.input {
+  background-color: var(--el-color-dark);
+  margin-top: 20px;
+  width: 260px;
+  height: 40px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px rgb(39, 39, 39);
+}
+
+.input * {
+  color: white;
+}
+
+.input input {
+  border: none;
+  outline: none;
+  background: none;
+  flex-basis: 80%;
+  height: 100%;
+  font-size: 14px;
+}
+
+.input svg {
+  flex-basis: 20%;
+}

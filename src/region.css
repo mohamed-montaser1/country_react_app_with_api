@@ -1,0 +1,58 @@
+.select-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.select {
+  background: var(--el-color-dark);
+  color: white;
+  width: 150px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 14px;
+  gap: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.filters {
+  list-style: none;
+  color: white;
+  width: 150px;
+  background: var(--el-color-dark);
+  border-radius: 5px;
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+  padding: 10px 0;
+  font-size: 14px;
+  position: absolute;
+  top: 100%;
+  z-index: 100000;
+}
+
+.filters li {
+  cursor: pointer;
+}
+
+.filters.open {
+  display: flex;
+}
+
+body.light .select {
+  background-color: var(--el-color-light);
+  color: var(--text-color-light);
+  box-shadow: 0 0 3px rgb(31, 31, 31);
+}
+
+body.light .filters {
+  background-color: var(--el-color-light);
+  color: var(--text-color-light);
+  box-shadow: 0 0 3px rgb(31, 31, 31);
+}

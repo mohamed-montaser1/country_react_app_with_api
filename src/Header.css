@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: hsl(209, 23%, 22%);
+  height: 70px;
+}
+
+.header * {
+  color: white;
+}
+
+.header .mood {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.header .mood p {
+  font-weight: 600;
+}
+
+body.light .header {
+  box-shadow: 0 0 5px rgb(41, 41, 41);
+  background-color: white;
+}
+
+body.light .header h2,
+body.light .header .mood p,
+body.light .header .mood svg {
+  color: black;
+  fill: black;
+}

@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap");
+:root {
+  --el-color-dark: hsl(209, 23%, 22%);
+  --text-color-dark: hsl(200, 15%, 8%);
+  --el-color-light: hsl(0, 0%, 100%);
+  --text-color-light: hsl(200, 15%, 8%);
+}
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  width: 0;
+}
+body {
+  font-family: "Nunito Sans", sans-serif;
+  background-color: hsl(207, 26%, 17%);
+}
+ul {
+  list-style: none;
+}
+body,
+html {
+  overflow-x: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  width: 90%;
+  margin: 10px auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body.light {
+  background-color: hsl(0, 0%, 98%);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+body.light .input {
+  color: hsl(0, 0%, 52%);
+  background-color: var(--el-color-light);
 }
 
-.App-link {
-  color: #61dafb;
+body.light .input input {
+  color: hsl(0, 0%, 52%);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body.light .input svg {
+  fill: hsl(0, 0%, 52%);
 }
