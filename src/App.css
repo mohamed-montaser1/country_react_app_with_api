@@ -5,6 +5,9 @@
   --el-color-light: hsl(0, 0%, 100%);
   --text-color-light: hsl(200, 15%, 8%);
 }
+html {
+  scroll-behavior: smooth;
+}
 *,
 *::before,
 *::after {
@@ -47,4 +50,32 @@ body.light .input input {
 
 body.light .input svg {
   fill: hsl(0, 0%, 52%);
+}
+
+a {
+  text-decoration: none;
+}
+
+.back-to-top {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: white;
+  font-size: 24px;
+  position: fixed;
+  right: 14px;
+  bottom: 17px;
+  cursor: pointer;
+  opacity: 0;
+  transition: all 0.3s linear;
+  background-color: var(--el-color-dark);
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.back-to-top.show {
+  opacity: 1;
 }

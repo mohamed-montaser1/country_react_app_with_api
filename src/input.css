@@ -1,7 +1,9 @@
+.filter-container {
+  margin-top: 30px;
+}
 .input {
   background-color: var(--el-color-dark);
-  margin-top: 20px;
-  width: 260px;
+  width: 400px;
   height: 40px;
   border-radius: 5px;
   display: flex;
@@ -25,4 +27,15 @@
 
 .input svg {
   flex-basis: 20%;
+}
+
+@media (max-width: 473px) {
+  .filter-container {
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+  }
+  .filter-container .input {
+    width: 100%;
+  }
 }

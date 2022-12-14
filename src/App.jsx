@@ -6,15 +6,6 @@ import { Route, Routes } from "react-router-dom";
 import Details from "./components/Details";
 function App() {
   return (
-    // <div>
-    //   <Header />
-    //   <div className="container">
-    //     <Routes>
-    //       <Route path="/" element={<MainContent />} />
-    //       <Route path="/details" element={<Details />} />
-    //     </Routes>
-    //   </div>
-    // </div>
     <>
       <Header />
       <Routes>

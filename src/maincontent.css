@@ -9,17 +9,18 @@ main.main {
 .country {
   background-color: var(--el-color-dark);
   width: 250px;
-  padding: 20px;
   max-height: fit-content;
   border-radius: 10px 10px 0 0;
   overflow: hidden;
   margin: 0 auto;
   box-shadow: 0 0 5px rgb(37, 37, 37);
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .country img {
   width: 100%;
-  height: 130px;
+  height: 150px;
 }
 
 .country .text-body {
@@ -34,7 +35,7 @@ body.light .country .text-body {
   color: var(--text-color-light);
 }
 
-body.light .country h2 a {
+body.light .country h2 {
   color: var(--text-color-light);
 }
 /* light */
@@ -65,7 +66,6 @@ body.light .country h2 a {
   font-weight: 600;
   cursor: pointer;
 }
-
 
 @media (max-width: 1104px) {
   main.main {

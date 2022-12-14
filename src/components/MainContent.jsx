@@ -4,7 +4,7 @@ import "../maincontent.css";
 import "../filter.css";
 import "../region.css";
 import "../input.css";
-import { FaSearch, FaAngleDown } from "react-icons/fa";
+import { FaSearch, FaAngleDown, FaArrowUp } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 const api_url = "https://restcountries.com/v3.1/";
 export function MainContent() {
@@ -12,6 +12,7 @@ export function MainContent() {
   let [status, setStatus] = useState(false);
   const [data, setData] = useState([]);
   const [reducerValue, foceUpdate] = useReducer((x) => x + 1, 0);
+  const buttonElementRef = useRef(null);
   useEffect(() => {
     const fetchAllCountries = async () => {
       const res = await axios.get(`${api_url}/all`);
@@ -42,9 +43,6 @@ export function MainContent() {
       setStatus(false);
     }
   };
-  const seeCountryDetails = (country) => {
-    console.log(country);
-  };
   const filterByRegion = async function (x) {
     if (x == "all") {
       const res = await axios.get(`https://restcountries.com/v3.1/all`);
@@ -56,6 +54,15 @@ export function MainContent() {
       setData(data);
     }
   };
+  useEffect(() => {
+    window.onscroll = function () {
+      if (window.scrollY >= 600) {
+        buttonElementRef.current.classList.add("show");
+      } else {
+        buttonElementRef.current.classList.remove("show");
+      }
+    };
+  }, [window.scrollY]);
   return (
     <>
       <div className="container">
@@ -119,37 +126,41 @@ export function MainContent() {
               return "";
             } else {
               return (
-                <div className="country">
-                  <img src={e.flags.png} alt="" />
-                  <div className="text-body">
-                    <h2>
-                      <NavLink
-                        to={`/details/${e.name.common}`}
-                        data-name={e.name.common}
-                        onClick={(e) =>
-                          seeCountryDetails(e.target.getAttribute("data-name"))
-                        }
-                      >
-                        {e.name.common}
-                      </NavLink>
-                    </h2>
-                    <ul>
-                      <li>
-                        Population: <span>{e.population}</span>
-                      </li>
-                      <li>
-                        Region: <span>{e.region}</span>
-                      </li>
-                      <li>
-                        Capital: <span>{e.capital}</span>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+                <>
+                  <NavLink
+                    to={`/details/${e.name.common}`}
+                    data-name={e.name.common}
+                  >
+                    <div className="country">
+                      <img src={e.flags.png} alt="" />
+                      <div className="text-body">
+                        <h2>{e.name.common}</h2>
+                        <ul>
+                          <li>
+                            Population: <span>{e.population}</span>
+                          </li>
+                          <li>
+                            Region: <span>{e.region}</span>
+                          </li>
+                          <li>
+                            Capital: <span>{e.capital}</span>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </NavLink>
+                </>
               );
             }
           })}
         </main>
+        <button
+          className="back-to-top"
+          onClick={(e) => window.scrollTo(0, 0)}
+          ref={buttonElementRef}
+        >
+          <FaArrowUp />
+        </button>
       </div>
     </>
   );

@@ -94,3 +94,35 @@ body.light .footer {
 body.light .border-countries li {
   background-color: white;
 }
+
+.container-d {
+  width: 100%;
+  padding: 0 30px;
+}
+
+@media (max-width: 790px) {
+  .details-container {
+    flex-direction: column;
+  }
+  .image-side {
+    width: 80%;
+    align-items: flex-start;
+  }
+}
+
+
+@media (max-width: 442px) {
+  .body {
+    flex-direction: column;
+    align-items: flex-start !important;
+  }
+  .border-countries li {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 364px) {
+  .footer {
+    flex-direction: column !important;
+  }
+}

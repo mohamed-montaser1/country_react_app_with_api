@@ -17,22 +17,21 @@ function Details() {
     };
     getCountryByName();
   }, []);
-  useState(() => {
-    const getCountryByCode = async (countryCode) => {
-      const res = await axios.get(
-        `https://restcountries.com/v2/alpha/${countryCode}`
-      );
-      const data = res.data.name;
-    };
-  }, []);
+  const getCountryByCode = async (countryCode) => {
+    const res = await axios.get(
+      `https://restcountries.com/v2/alpha/${countryCode}`
+    );
+    const data = res.data.name;
+    console.log(data)
+  };
   return (
-    <div className="container">
+    <div className="container container-d">
       <NavLink to={"/"} className="back">
         <FaLongArrowAltLeft /> Back
       </NavLink>
       <main className="main-content">
         {data?.map((country) => {
-          console.log(country);
+          // console.log(country);
           let arrayOfLangs = [];
           let arrayOfCurrencies = [];
           for (let i in country.languages) {
@@ -85,6 +84,7 @@ function Details() {
                   <div className="footer">
                     {country?.borders ? "Border Countries" : ""}{" "}
                     {country?.borders?.map((e) => {
+                      getCountryByCode(e);
                       return (
                         <ul className="border-countries">
                           <li>{e}</li>
