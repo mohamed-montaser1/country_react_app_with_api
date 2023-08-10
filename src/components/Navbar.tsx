@@ -1,14 +1,17 @@
-import { FaMoon } from "react-icons/fa";
+import useTheme from "@/context/themeContext";
+import Logo from "./Logo";
+import ThemeController from "./ThemeController";
 function Navbar() {
+  const { theme } = useTheme();
+
   return (
-    <nav className="bg-[#2b3945] flex justify-between items-center p-4">
-      <h1 className="text-lg font-semibold text-slate-200 xs:text-2xl">
-        Where In The World?
-      </h1>
-      <button className="flex items-center gap-1 xs:gap-2">
-        <FaMoon className="text-slate-200" />
-        <span className="text-slate-200 font-medium text-md">Dark Mood</span>
-      </button>
+    <nav
+      className={`${
+        theme === "dark" ? "bg-[#2b3945]" : "bg-[#eee]"
+      } flex justify-between items-center p-4 border-b-[#111517] border-b-2`}
+    >
+      <Logo />
+      <ThemeController />
     </nav>
   );
 }
