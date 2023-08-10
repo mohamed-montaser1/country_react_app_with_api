@@ -1,6 +1,6 @@
 import useCountry from "@/context/countryContext";
 import useTheme from "@/context/themeContext";
-import type { Countries, region } from "@/types/country";
+import type { region } from "@/types/country";
 import { useState } from "react";
 import { AiOutlineCaretDown } from "react-icons/ai";
 import SelectRegionElement from "./SelectRegionElement";

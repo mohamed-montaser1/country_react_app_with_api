@@ -1,4 +1,4 @@
-import { Countries, Country } from "@/types/country";
+import { Countries } from "@/types/country";
 import axios from "axios";
 
 export async function getAllCountries(api: string): Promise<Countries> {
@@ -7,7 +7,3 @@ export async function getAllCountries(api: string): Promise<Countries> {
   });
   return data;
 }
-
-function getCountry() {}
-
-function getByRegion() {}

@@ -33,11 +33,7 @@ export const ThemeContextProvider = ({ children }: Props) => {
     changeThemeTo,
   };
 
-  return (
-    <themeContext.Provider value={providedValue}>
-      {children}
-    </themeContext.Provider>
-  );
+  return <themeContext.Provider value={providedValue}>{children}</themeContext.Provider>;
 };
 
 export default function useTheme() {

@@ -48,9 +48,7 @@ export function CountryContextProvider({ children }: Props) {
   };
   return (
     <>
-      <countryContext.Provider value={providedValue}>
-        {children}
-      </countryContext.Provider>
+      <countryContext.Provider value={providedValue}>{children}</countryContext.Provider>
     </>
   );
 }

@@ -21,12 +21,7 @@
     "currencies": { "SAR": { "name": "Saudi riyal", "symbol": "ر.س" } },
     "idd": { "root": "+9", "suffixes": ["66"] },
     "capital": ["Riyadh"],
-    "altSpellings": [
-      "Saudi",
-      "SA",
-      "Kingdom of Saudi Arabia",
-      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
-    ],
+    "altSpellings": ["Saudi", "SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"],
     "region": "Asia",
     "subregion": "Western Asia",
     "languages": { "ara": "Arabic" },
@@ -242,12 +237,7 @@
     "currencies": { "IRR": { "name": "Iranian rial", "symbol": "﷼" } },
     "idd": { "root": "+9", "suffixes": ["8"] },
     "capital": ["Tehran"],
-    "altSpellings": [
-      "IR",
-      "Islamic Republic of Iran",
-      "Iran, Islamic Republic of",
-      "Jomhuri-ye Eslāmi-ye Irān"
-    ],
+    "altSpellings": ["IR", "Islamic Republic of Iran", "Iran, Islamic Republic of", "Jomhuri-ye Eslāmi-ye Irān"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": { "fas": "Persian (Farsi)" },
@@ -1025,12 +1015,7 @@
     },
     "idd": { "root": "+2", "suffixes": ["28"] },
     "capital": ["Lomé"],
-    "altSpellings": [
-      "TG",
-      "Togolese",
-      "Togolese Republic",
-      "République Togolaise"
-    ],
+    "altSpellings": ["TG", "Togolese", "Togolese Republic", "République Togolaise"],
     "region": "Africa",
     "subregion": "Western Africa",
     "languages": { "fra": "French" },
@@ -1117,12 +1102,7 @@
     },
     "idd": { "root": "+6", "suffixes": ["73"] },
     "capital": ["Bandar Seri Begawan"],
-    "altSpellings": [
-      "BN",
-      "Brunei Darussalam",
-      "Nation of Brunei",
-      "the Abode of Peace"
-    ],
+    "altSpellings": ["BN", "Brunei Darussalam", "Nation of Brunei", "the Abode of Peace"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "languages": { "msa": "Malay" },
@@ -1307,13 +1287,7 @@
     "currencies": { "RSD": { "name": "Serbian dinar", "symbol": "дин." } },
     "idd": { "root": "+3", "suffixes": ["81"] },
     "capital": ["Belgrade"],
-    "altSpellings": [
-      "RS",
-      "Srbija",
-      "Republic of Serbia",
-      "Република Србија",
-      "Republika Srbija"
-    ],
+    "altSpellings": ["RS", "Srbija", "Republic of Serbia", "Република Србија", "Republika Srbija"],
     "region": "Europe",
     "subregion": "Southeast Europe",
     "languages": { "srp": "Serbian" },
@@ -1408,11 +1382,7 @@
     },
     "idd": { "root": "+6", "suffixes": ["75"] },
     "capital": ["Port Moresby"],
-    "altSpellings": [
-      "PG",
-      "Independent State of Papua New Guinea",
-      "Independen Stet bilong Papua Niugini"
-    ],
+    "altSpellings": ["PG", "Independent State of Papua New Guinea", "Independen Stet bilong Papua Niugini"],
     "region": "Oceania",
     "subregion": "Melanesia",
     "languages": { "eng": "English", "hmo": "Hiri Motu", "tpi": "Tok Pisin" },
@@ -1564,13 +1534,7 @@
     "currencies": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
     "idd": { "root": "+6", "suffixes": ["74"] },
     "capital": ["Yaren"],
-    "altSpellings": [
-      "NR",
-      "Naoero",
-      "Pleasant Island",
-      "Republic of Nauru",
-      "Ripublik Naoero"
-    ],
+    "altSpellings": ["NR", "Naoero", "Pleasant Island", "Republic of Nauru", "Ripublik Naoero"],
     "region": "Oceania",
     "subregion": "Micronesia",
     "languages": { "eng": "English", "nau": "Nauru" },
@@ -1647,12 +1611,7 @@
     "currencies": { "BMD": { "name": "Bermudian dollar", "symbol": "$" } },
     "idd": { "root": "+1", "suffixes": ["441"] },
     "capital": ["Hamilton"],
-    "altSpellings": [
-      "BM",
-      "The Islands of Bermuda",
-      "The Bermudas",
-      "Somers Isles"
-    ],
+    "altSpellings": ["BM", "The Islands of Bermuda", "The Bermudas", "Somers Isles"],
     "region": "Americas",
     "subregion": "North America",
     "languages": { "eng": "English" },
@@ -2128,12 +2087,7 @@
     },
     "idd": { "root": "+9", "suffixes": ["70"] },
     "capital": ["Ramallah", "Jerusalem"],
-    "altSpellings": [
-      "PS",
-      "Palestine, State of",
-      "State of Palestine",
-      "Dawlat Filasṭin"
-    ],
+    "altSpellings": ["PS", "Palestine, State of", "State of Palestine", "Dawlat Filasṭin"],
     "region": "Asia",
     "subregion": "Western Asia",
     "languages": { "ara": "Arabic" },
@@ -2329,11 +2283,7 @@
     "currencies": { "LKR": { "name": "Sri Lankan rupee", "symbol": "Rs  රු" } },
     "idd": { "root": "+9", "suffixes": ["4"] },
     "capital": ["Sri Jayawardenepura Kotte"],
-    "altSpellings": [
-      "LK",
-      "ilaṅkai",
-      "Democratic Socialist Republic of Sri Lanka"
-    ],
+    "altSpellings": ["LK", "ilaṅkai", "Democratic Socialist Republic of Sri Lanka"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": { "sin": "Sinhala", "tam": "Tamil" },
@@ -3205,13 +3155,7 @@
     "currencies": { "INR": { "name": "Indian rupee", "symbol": "₹" } },
     "idd": { "root": "+9", "suffixes": ["1"] },
     "capital": ["New Delhi"],
-    "altSpellings": [
-      "IN",
-      "Bhārat",
-      "Republic of India",
-      "Bharat Ganrajya",
-      "இந்தியா"
-    ],
+    "altSpellings": ["IN", "Bhārat", "Republic of India", "Bharat Ganrajya", "இந்தியா"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": { "eng": "English", "hin": "Hindi", "tam": "Tamil" },
@@ -3530,11 +3474,7 @@
     "currencies": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
     "idd": { "root": "+6", "suffixes": ["72"] },
     "capital": ["Kingston"],
-    "altSpellings": [
-      "NF",
-      "Territory of Norfolk Island",
-      "Teratri of Norf'k Ailen"
-    ],
+    "altSpellings": ["NF", "Territory of Norfolk Island", "Teratri of Norf'k Ailen"],
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
     "languages": { "eng": "English", "pih": "Norfuk" },
@@ -4017,12 +3957,7 @@
     "currencies": { "XPF": { "name": "CFP franc", "symbol": "₣" } },
     "idd": { "root": "+6", "suffixes": ["89"] },
     "capital": ["Papeetē"],
-    "altSpellings": [
-      "PF",
-      "Polynésie française",
-      "French Polynesia",
-      "Pōrīnetia Farāni"
-    ],
+    "altSpellings": ["PF", "Polynésie française", "French Polynesia", "Pōrīnetia Farāni"],
     "region": "Oceania",
     "subregion": "Polynesia",
     "languages": { "fra": "French" },
@@ -4237,11 +4172,7 @@
     "currencies": { "NPR": { "name": "Nepalese rupee", "symbol": "₨" } },
     "idd": { "root": "+9", "suffixes": ["77"] },
     "capital": ["Kathmandu"],
-    "altSpellings": [
-      "NP",
-      "Federal Democratic Republic of Nepal",
-      "Loktāntrik Ganatantra Nepāl"
-    ],
+    "altSpellings": ["NP", "Federal Democratic Republic of Nepal", "Loktāntrik Ganatantra Nepāl"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": { "nep": "Nepali" },
@@ -4384,12 +4315,7 @@
     "currencies": { "UZS": { "name": "Uzbekistani soʻm", "symbol": "so'm" } },
     "idd": { "root": "+9", "suffixes": ["98"] },
     "capital": ["Tashkent"],
-    "altSpellings": [
-      "UZ",
-      "Republic of Uzbekistan",
-      "O‘zbekiston Respublikasi",
-      "Ўзбекистон Республикаси"
-    ],
+    "altSpellings": ["UZ", "Republic of Uzbekistan", "O‘zbekiston Respublikasi", "Ўзбекистон Республикаси"],
     "region": "Asia",
     "subregion": "Central Asia",
     "languages": { "rus": "Russian", "uzb": "Uzbek" },
@@ -4479,13 +4405,7 @@
     "currencies": { "FJD": { "name": "Fijian dollar", "symbol": "$" } },
     "idd": { "root": "+6", "suffixes": ["79"] },
     "capital": ["Suva"],
-    "altSpellings": [
-      "FJ",
-      "Viti",
-      "Republic of Fiji",
-      "Matanitu ko Viti",
-      "Fijī Gaṇarājya"
-    ],
+    "altSpellings": ["FJ", "Viti", "Republic of Fiji", "Matanitu ko Viti", "Fijī Gaṇarājya"],
     "region": "Oceania",
     "subregion": "Melanesia",
     "languages": { "eng": "English", "fij": "Fijian", "hif": "Fiji Hindi" },
@@ -5165,11 +5085,7 @@
     "currencies": { "PHP": { "name": "Philippine peso", "symbol": "₱" } },
     "idd": { "root": "+6", "suffixes": ["3"] },
     "capital": ["Manila"],
-    "altSpellings": [
-      "PH",
-      "Republic of the Philippines",
-      "Repúblika ng Pilipinas"
-    ],
+    "altSpellings": ["PH", "Republic of the Philippines", "Repúblika ng Pilipinas"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "languages": { "eng": "English", "fil": "Filipino" },
@@ -5604,13 +5520,7 @@
     "currencies": { "SRD": { "name": "Surinamese dollar", "symbol": "$" } },
     "idd": { "root": "+5", "suffixes": ["97"] },
     "capital": ["Paramaribo"],
-    "altSpellings": [
-      "SR",
-      "Sarnam",
-      "Sranangron",
-      "Republic of Suriname",
-      "Republiek Suriname"
-    ],
+    "altSpellings": ["SR", "Sarnam", "Sranangron", "Republic of Suriname", "Republiek Suriname"],
     "region": "Americas",
     "subregion": "South America",
     "languages": { "nld": "Dutch" },
@@ -5775,11 +5685,7 @@
     "currencies": { "SYP": { "name": "Syrian pound", "symbol": "£" } },
     "idd": { "root": "+9", "suffixes": ["63"] },
     "capital": ["Damascus"],
-    "altSpellings": [
-      "SY",
-      "Syrian Arab Republic",
-      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
-    ],
+    "altSpellings": ["SY", "Syrian Arab Republic", "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"],
     "region": "Asia",
     "subregion": "Western Asia",
     "languages": { "ara": "Arabic" },
@@ -6244,13 +6150,7 @@
     "population": 5084300,
     "fifa": "NZL",
     "car": { "signs": ["NZ"], "side": "left" },
-    "timezones": [
-      "UTC-11:00",
-      "UTC-10:00",
-      "UTC+12:00",
-      "UTC+12:45",
-      "UTC+13:00"
-    ],
+    "timezones": ["UTC-11:00", "UTC-10:00", "UTC+12:00", "UTC+12:45", "UTC+13:00"],
     "continents": ["Oceania"],
     "flags": {
       "png": "https://flagcdn.com/w320/nz.png",
@@ -6369,11 +6269,7 @@
     "currencies": { "MRU": { "name": "Mauritanian ouguiya", "symbol": "UM" } },
     "idd": { "root": "+2", "suffixes": ["22"] },
     "capital": ["Nouakchott"],
-    "altSpellings": [
-      "MR",
-      "Islamic Republic of Mauritania",
-      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
-    ],
+    "altSpellings": ["MR", "Islamic Republic of Mauritania", "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"],
     "region": "Africa",
     "subregion": "Western Africa",
     "languages": { "ara": "Arabic" },
@@ -6631,14 +6527,7 @@
     "currencies": { "THB": { "name": "Thai baht", "symbol": "฿" } },
     "idd": { "root": "+6", "suffixes": ["6"] },
     "capital": ["Bangkok"],
-    "altSpellings": [
-      "TH",
-      "Prathet",
-      "Thai",
-      "Kingdom of Thailand",
-      "ราชอาณาจักรไทย",
-      "Ratcha Anachak Thai"
-    ],
+    "altSpellings": ["TH", "Prathet", "Thai", "Kingdom of Thailand", "ราชอาณาจักรไทย", "Ratcha Anachak Thai"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "languages": { "tha": "Thai" },
@@ -6976,12 +6865,7 @@
     "currencies": { "NGN": { "name": "Nigerian naira", "symbol": "₦" } },
     "idd": { "root": "+2", "suffixes": ["34"] },
     "capital": ["Abuja"],
-    "altSpellings": [
-      "NG",
-      "Nijeriya",
-      "Naíjíríà",
-      "Federal Republic of Nigeria"
-    ],
+    "altSpellings": ["NG", "Nijeriya", "Naíjíríà", "Federal Republic of Nigeria"],
     "region": "Africa",
     "subregion": "Western Africa",
     "languages": { "eng": "English" },
@@ -7089,12 +6973,7 @@
     "currencies": { "RWF": { "name": "Rwandan franc", "symbol": "Fr" } },
     "idd": { "root": "+2", "suffixes": ["50"] },
     "capital": ["Kigali"],
-    "altSpellings": [
-      "RW",
-      "Republic of Rwanda",
-      "Repubulika y'u Rwanda",
-      "République du Rwanda"
-    ],
+    "altSpellings": ["RW", "Republic of Rwanda", "Repubulika y'u Rwanda", "République du Rwanda"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "languages": { "eng": "English", "fra": "French", "kin": "Kinyarwanda" },
@@ -7364,12 +7243,7 @@
     "currencies": { "PYG": { "name": "Paraguayan guaraní", "symbol": "₲" } },
     "idd": { "root": "+5", "suffixes": ["95"] },
     "capital": ["Asunción"],
-    "altSpellings": [
-      "PY",
-      "Republic of Paraguay",
-      "República del Paraguay",
-      "Tetã Paraguái"
-    ],
+    "altSpellings": ["PY", "Republic of Paraguay", "República del Paraguay", "Tetã Paraguái"],
     "region": "Americas",
     "subregion": "South America",
     "languages": { "grn": "Guaraní", "spa": "Spanish" },
@@ -7452,13 +7326,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["58"] },
     "capital": ["Helsinki"],
-    "altSpellings": [
-      "FI",
-      "Suomi",
-      "Republic of Finland",
-      "Suomen tasavalta",
-      "Republiken Finland"
-    ],
+    "altSpellings": ["FI", "Suomi", "Republic of Finland", "Suomen tasavalta", "Republiken Finland"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "languages": { "fin": "Finnish", "swe": "Swedish" },
@@ -7543,11 +7411,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["78"] },
     "capital": ["City of San Marino"],
-    "altSpellings": [
-      "SM",
-      "Republic of San Marino",
-      "Repubblica di San Marino"
-    ],
+    "altSpellings": ["SM", "Republic of San Marino", "Repubblica di San Marino"],
     "region": "Europe",
     "subregion": "Southern Europe",
     "languages": { "ita": "Italian" },
@@ -7751,12 +7615,7 @@
     },
     "idd": { "root": "+1", "suffixes": ["767"] },
     "capital": ["Roseau"],
-    "altSpellings": [
-      "DM",
-      "Dominique",
-      "Wai‘tu kubuli",
-      "Commonwealth of Dominica"
-    ],
+    "altSpellings": ["DM", "Dominique", "Wai‘tu kubuli", "Commonwealth of Dominica"],
     "region": "Americas",
     "subregion": "Caribbean",
     "languages": { "eng": "English" },
@@ -7930,10 +7789,7 @@
     },
     "idd": { "root": "+2", "suffixes": ["90", "47"] },
     "capital": ["Jamestown"],
-    "altSpellings": [
-      "Saint Helena",
-      "St. Helena, Ascension and Tristan da Cunha"
-    ],
+    "altSpellings": ["Saint Helena", "St. Helena, Ascension and Tristan da Cunha"],
     "region": "Africa",
     "subregion": "Western Africa",
     "languages": { "eng": "English" },
@@ -8158,13 +8014,7 @@
     "currencies": { "KMF": { "name": "Comorian franc", "symbol": "Fr" } },
     "idd": { "root": "+2", "suffixes": ["69"] },
     "capital": ["Moroni"],
-    "altSpellings": [
-      "KM",
-      "Union of the Comoros",
-      "Union des Comores",
-      "Udzima wa Komori",
-      "al-Ittiḥād al-Qumurī"
-    ],
+    "altSpellings": ["KM", "Union of the Comoros", "Union des Comores", "Udzima wa Komori", "al-Ittiḥād al-Qumurī"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "languages": { "ara": "Arabic", "fra": "French", "zdj": "Comorian" },
@@ -8973,12 +8823,7 @@
     "currencies": { "BRL": { "name": "Brazilian real", "symbol": "R$" } },
     "idd": { "root": "+5", "suffixes": ["5"] },
     "capital": ["Brasília"],
-    "altSpellings": [
-      "BR",
-      "Brasil",
-      "Federative Republic of Brazil",
-      "República Federativa do Brasil"
-    ],
+    "altSpellings": ["BR", "Brasil", "Federative Republic of Brazil", "República Federativa do Brasil"],
     "region": "Americas",
     "subregion": "South America",
     "languages": { "por": "Portuguese" },
@@ -9050,18 +8895,7 @@
     },
     "latlng": [-10.0, -55.0],
     "landlocked": false,
-    "borders": [
-      "ARG",
-      "BOL",
-      "COL",
-      "GUF",
-      "GUY",
-      "PRY",
-      "PER",
-      "SUR",
-      "URY",
-      "VEN"
-    ],
+    "borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
     "area": 8515767.0,
     "demonyms": {
       "eng": { "f": "Brazilian", "m": "Brazilian" },
@@ -9110,12 +8944,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["0"] },
     "capital": ["Athens"],
-    "altSpellings": [
-      "GR",
-      "Elláda",
-      "Hellenic Republic",
-      "Ελληνική Δημοκρατία"
-    ],
+    "altSpellings": ["GR", "Elláda", "Hellenic Republic", "Ελληνική Δημοκρατία"],
     "region": "Europe",
     "subregion": "Southern Europe",
     "languages": { "ell": "Greek" },
@@ -9466,12 +9295,7 @@
     "currencies": { "PKR": { "name": "Pakistani rupee", "symbol": "₨" } },
     "idd": { "root": "+9", "suffixes": ["2"] },
     "capital": ["Islamabad"],
-    "altSpellings": [
-      "PK",
-      "Pākistān",
-      "Islamic Republic of Pakistan",
-      "Islāmī Jumhūriya'eh Pākistān"
-    ],
+    "altSpellings": ["PK", "Pākistān", "Islamic Republic of Pakistan", "Islāmī Jumhūriya'eh Pākistān"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": { "eng": "English", "urd": "Urdu" },
@@ -9830,14 +9654,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["57"] },
     "capital": ["Nicosia"],
-    "altSpellings": [
-      "CY",
-      "Kýpros",
-      "Kıbrıs",
-      "Republic of Cyprus",
-      "Κυπριακή Δημοκρατία",
-      "Kıbrıs Cumhuriyeti"
-    ],
+    "altSpellings": ["CY", "Kýpros", "Kıbrıs", "Republic of Cyprus", "Κυπριακή Δημοκρατία", "Kıbrıs Cumhuriyeti"],
     "region": "Europe",
     "subregion": "Southern Europe",
     "languages": { "ell": "Greek", "tur": "Turkish" },
@@ -10062,13 +9879,7 @@
     "currencies": { "KGS": { "name": "Kyrgyzstani som", "symbol": "с" } },
     "idd": { "root": "+9", "suffixes": ["96"] },
     "capital": ["Bishkek"],
-    "altSpellings": [
-      "KG",
-      "Киргизия",
-      "Kyrgyz Republic",
-      "Кыргыз Республикасы",
-      "Kyrgyz Respublikasy"
-    ],
+    "altSpellings": ["KG", "Киргизия", "Kyrgyz Republic", "Кыргыз Республикасы", "Kyrgyz Respublikasy"],
     "region": "Asia",
     "subregion": "Central Asia",
     "languages": { "kir": "Kyrgyz", "rus": "Russian" },
@@ -10916,12 +10727,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["906698", "79"] },
     "capital": ["Vatican City"],
-    "altSpellings": [
-      "VA",
-      "Holy See (Vatican City State)",
-      "Vatican City State",
-      "Stato della Città del Vaticano"
-    ],
+    "altSpellings": ["VA", "Holy See (Vatican City State)", "Vatican City State", "Stato della Città del Vaticano"],
     "region": "Europe",
     "subregion": "Southern Europe",
     "languages": { "ita": "Italian", "lat": "Latin" },
@@ -11098,11 +10904,7 @@
     "currencies": { "UYU": { "name": "Uruguayan peso", "symbol": "$" } },
     "idd": { "root": "+5", "suffixes": ["98"] },
     "capital": ["Montevideo"],
-    "altSpellings": [
-      "UY",
-      "Oriental Republic of Uruguay",
-      "República Oriental del Uruguay"
-    ],
+    "altSpellings": ["UY", "Oriental Republic of Uruguay", "República Oriental del Uruguay"],
     "region": "Americas",
     "subregion": "South America",
     "languages": { "spa": "Spanish" },
@@ -11470,12 +11272,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+5", "suffixes": ["90"] },
     "capital": ["Gustavia"],
-    "altSpellings": [
-      "BL",
-      "St. Barthelemy",
-      "Collectivity of Saint Barthélemy",
-      "Collectivité de Saint-Barthélemy"
-    ],
+    "altSpellings": ["BL", "St. Barthelemy", "Collectivity of Saint Barthélemy", "Collectivité de Saint-Barthélemy"],
     "region": "Americas",
     "subregion": "Caribbean",
     "languages": { "fra": "French" },
@@ -11845,11 +11642,7 @@
     "currencies": { "XPF": { "name": "CFP franc", "symbol": "₣" } },
     "idd": { "root": "+6", "suffixes": ["81"] },
     "capital": ["Mata-Utu"],
-    "altSpellings": [
-      "WF",
-      "Territory of the Wallis and Futuna Islands",
-      "Territoire des îles Wallis et Futuna"
-    ],
+    "altSpellings": ["WF", "Territory of the Wallis and Futuna Islands", "Territoire des îles Wallis et Futuna"],
     "region": "Oceania",
     "subregion": "Polynesia",
     "languages": { "fra": "French" },
@@ -12450,12 +12243,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["85"] },
     "capital": ["Zagreb"],
-    "altSpellings": [
-      "HR",
-      "Hrvatska",
-      "Republic of Croatia",
-      "Republika Hrvatska"
-    ],
+    "altSpellings": ["HR", "Hrvatska", "Republic of Croatia", "Republika Hrvatska"],
     "region": "Europe",
     "subregion": "Southeast Europe",
     "languages": { "hrv": "Croatian" },
@@ -12537,12 +12325,7 @@
     "currencies": { "AMD": { "name": "Armenian dram", "symbol": "֏" } },
     "idd": { "root": "+3", "suffixes": ["74"] },
     "capital": ["Yerevan"],
-    "altSpellings": [
-      "AM",
-      "Hayastan",
-      "Republic of Armenia",
-      "Հայաստանի Հանրապետություն"
-    ],
+    "altSpellings": ["AM", "Hayastan", "Republic of Armenia", "Հայաստանի Հանրապետություն"],
     "region": "Asia",
     "subregion": "Western Asia",
     "languages": { "hye": "Armenian" },
@@ -13102,11 +12885,7 @@
     "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
     "idd": { "root": "+6", "suffixes": ["91"] },
     "capital": ["Palikir"],
-    "altSpellings": [
-      "FM",
-      "Federated States of Micronesia",
-      "Micronesia, Federated States of"
-    ],
+    "altSpellings": ["FM", "Federated States of Micronesia", "Micronesia, Federated States of"],
     "region": "Oceania",
     "subregion": "Micronesia",
     "languages": { "eng": "English" },
@@ -13328,14 +13107,7 @@
     "currencies": { "TWD": { "name": "New Taiwan dollar", "symbol": "$" } },
     "idd": { "root": "+8", "suffixes": ["86"] },
     "capital": ["Taipei"],
-    "altSpellings": [
-      "TW",
-      "Táiwān",
-      "Republic of China",
-      "中華民國",
-      "Zhōnghuá Mínguó",
-      "Chinese Taipei"
-    ],
+    "altSpellings": ["TW", "Táiwān", "Republic of China", "中華民國", "Zhōnghuá Mínguó", "Chinese Taipei"],
     "region": "Asia",
     "subregion": "Eastern Asia",
     "languages": { "zho": "Chinese" },
@@ -13413,11 +13185,7 @@
     "currencies": { "TND": { "name": "Tunisian dinar", "symbol": "د.ت" } },
     "idd": { "root": "+2", "suffixes": ["16"] },
     "capital": ["Tunis"],
-    "altSpellings": [
-      "TN",
-      "Republic of Tunisia",
-      "al-Jumhūriyyah at-Tūnisiyyah"
-    ],
+    "altSpellings": ["TN", "Republic of Tunisia", "al-Jumhūriyyah at-Tūnisiyyah"],
     "region": "Africa",
     "subregion": "Northern Africa",
     "languages": { "ara": "Arabic" },
@@ -13576,12 +13344,7 @@
     "currencies": { "HTG": { "name": "Haitian gourde", "symbol": "G" } },
     "idd": { "root": "+5", "suffixes": ["09"] },
     "capital": ["Port-au-Prince"],
-    "altSpellings": [
-      "HT",
-      "Republic of Haiti",
-      "République d'Haïti",
-      "Repiblik Ayiti"
-    ],
+    "altSpellings": ["HT", "Republic of Haiti", "République d'Haïti", "Repiblik Ayiti"],
     "region": "Americas",
     "subregion": "Caribbean",
     "languages": { "fra": "French", "hat": "Haitian Creole" },
@@ -13834,11 +13597,7 @@
     "currencies": { "CHF": { "name": "Swiss franc", "symbol": "Fr" } },
     "idd": { "root": "+4", "suffixes": ["23"] },
     "capital": ["Vaduz"],
-    "altSpellings": [
-      "LI",
-      "Principality of Liechtenstein",
-      "Fürstentum Liechtenstein"
-    ],
+    "altSpellings": ["LI", "Principality of Liechtenstein", "Fürstentum Liechtenstein"],
     "region": "Europe",
     "subregion": "Western Europe",
     "languages": { "deu": "German" },
@@ -14181,11 +13940,7 @@
     },
     "idd": { "root": "+2", "suffixes": ["36"] },
     "capital": ["Bangui"],
-    "altSpellings": [
-      "CF",
-      "Central African Republic",
-      "République centrafricaine"
-    ],
+    "altSpellings": ["CF", "Central African Republic", "République centrafricaine"],
     "region": "Africa",
     "subregion": "Middle Africa",
     "languages": { "fra": "French", "sag": "Sango" },
@@ -14556,14 +14311,7 @@
     "gini": { "2017": 33.3 },
     "fifa": "CAN",
     "car": { "signs": ["CDN"], "side": "right" },
-    "timezones": [
-      "UTC-08:00",
-      "UTC-07:00",
-      "UTC-06:00",
-      "UTC-05:00",
-      "UTC-04:00",
-      "UTC-03:30"
-    ],
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00", "UTC-05:00", "UTC-04:00", "UTC-03:30"],
     "continents": ["North America"],
     "flags": {
       "png": "https://flagcdn.com/w320/ca.png",
@@ -14762,13 +14510,7 @@
     "currencies": { "TJS": { "name": "Tajikistani somoni", "symbol": "ЅМ" } },
     "idd": { "root": "+9", "suffixes": ["92"] },
     "capital": ["Dushanbe"],
-    "altSpellings": [
-      "TJ",
-      "Toçikiston",
-      "Republic of Tajikistan",
-      "Ҷумҳурии Тоҷикистон",
-      "Çumhuriyi Toçikiston"
-    ],
+    "altSpellings": ["TJ", "Toçikiston", "Republic of Tajikistan", "Ҷумҳурии Тоҷикистон", "Çumhuriyi Toçikiston"],
     "region": "Asia",
     "subregion": "Central Asia",
     "languages": { "rus": "Russian", "tgk": "Tajik" },
@@ -14865,12 +14607,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["51"] },
     "capital": ["Lisbon"],
-    "altSpellings": [
-      "PT",
-      "Portuguesa",
-      "Portuguese Republic",
-      "República Portuguesa"
-    ],
+    "altSpellings": ["PT", "Portuguesa", "Portuguese Republic", "República Portuguesa"],
     "region": "Europe",
     "subregion": "Southern Europe",
     "languages": { "por": "Portuguese" },
@@ -14956,15 +14693,7 @@
     },
     "idd": { "root": "+2", "suffixes": ["68"] },
     "capital": ["Mbabane"],
-    "altSpellings": [
-      "SZ",
-      "Swaziland",
-      "weSwatini",
-      "Swatini",
-      "Ngwane",
-      "Kingdom of Eswatini",
-      "Umbuso weSwatini"
-    ],
+    "altSpellings": ["SZ", "Swaziland", "weSwatini", "Swatini", "Ngwane", "Kingdom of Eswatini", "Umbuso weSwatini"],
     "region": "Africa",
     "subregion": "Southern Africa",
     "languages": { "eng": "English", "ssw": "Swazi" },
@@ -15293,13 +15022,7 @@
     },
     "idd": { "root": "+2", "suffixes": ["25"] },
     "capital": ["Yamoussoukro"],
-    "altSpellings": [
-      "CI",
-      "Côte d'Ivoire",
-      "Ivory Coast",
-      "Republic of Côte d'Ivoire",
-      "République de Côte d'Ivoire"
-    ],
+    "altSpellings": ["CI", "Côte d'Ivoire", "Ivory Coast", "Republic of Côte d'Ivoire", "République de Côte d'Ivoire"],
     "region": "Africa",
     "subregion": "Western Africa",
     "languages": { "fra": "French" },
@@ -15434,12 +15157,7 @@
     "currencies": { "MVR": { "name": "Maldivian rufiyaa", "symbol": ".ރ" } },
     "idd": { "root": "+9", "suffixes": ["60"] },
     "capital": ["Malé"],
-    "altSpellings": [
-      "MV",
-      "Maldive Islands",
-      "Republic of the Maldives",
-      "Dhivehi Raajjeyge Jumhooriyya"
-    ],
+    "altSpellings": ["MV", "Maldive Islands", "Republic of the Maldives", "Dhivehi Raajjeyge Jumhooriyya"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": { "div": "Maldivian" },
@@ -15525,12 +15243,7 @@
     "currencies": { "SCR": { "name": "Seychellois rupee", "symbol": "₨" } },
     "idd": { "root": "+2", "suffixes": ["48"] },
     "capital": ["Victoria"],
-    "altSpellings": [
-      "SC",
-      "Republic of Seychelles",
-      "Repiblik Sesel",
-      "République des Seychelles"
-    ],
+    "altSpellings": ["SC", "Republic of Seychelles", "Repiblik Sesel", "République des Seychelles"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "languages": {
@@ -15803,12 +15516,7 @@
     "currencies": { "MGA": { "name": "Malagasy ariary", "symbol": "Ar" } },
     "idd": { "root": "+2", "suffixes": ["61"] },
     "capital": ["Antananarivo"],
-    "altSpellings": [
-      "MG",
-      "Republic of Madagascar",
-      "Repoblikan'i Madagasikara",
-      "République de Madagascar"
-    ],
+    "altSpellings": ["MG", "Republic of Madagascar", "Repoblikan'i Madagasikara", "République de Madagascar"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "languages": { "fra": "French", "mlg": "Malagasy" },
@@ -16004,13 +15712,7 @@
     "currencies": { "KRW": { "name": "South Korean won", "symbol": "₩" } },
     "idd": { "root": "+8", "suffixes": ["2"] },
     "capital": ["Seoul"],
-    "altSpellings": [
-      "KR",
-      "Korea, Republic of",
-      "Republic of Korea",
-      "남한",
-      "남조선"
-    ],
+    "altSpellings": ["KR", "Korea, Republic of", "Republic of Korea", "남한", "남조선"],
     "region": "Asia",
     "subregion": "Eastern Asia",
     "languages": { "kor": "Korean" },
@@ -16094,14 +15796,7 @@
     "currencies": { "ERN": { "name": "Eritrean nakfa", "symbol": "Nfk" } },
     "idd": { "root": "+2", "suffixes": ["91"] },
     "capital": ["Asmara"],
-    "altSpellings": [
-      "ER",
-      "State of Eritrea",
-      "ሃገረ ኤርትራ",
-      "Dawlat Iritriyá",
-      "ʾErtrā",
-      "Iritriyā"
-    ],
+    "altSpellings": ["ER", "State of Eritrea", "ሃገረ ኤርትራ", "Dawlat Iritriyá", "ʾErtrā", "Iritriyā"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "languages": { "ara": "Arabic", "eng": "English", "tir": "Tigrinya" },
@@ -17546,14 +17241,7 @@
     "currencies": { "CHF": { "name": "Swiss franc", "symbol": "Fr." } },
     "idd": { "root": "+4", "suffixes": ["1"] },
     "capital": ["Bern"],
-    "altSpellings": [
-      "CH",
-      "Swiss Confederation",
-      "Schweiz",
-      "Suisse",
-      "Svizzera",
-      "Svizra"
-    ],
+    "altSpellings": ["CH", "Swiss Confederation", "Schweiz", "Suisse", "Svizzera", "Svizra"],
     "region": "Europe",
     "subregion": "Western Europe",
     "languages": {
@@ -18061,10 +17749,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+5", "suffixes": ["08"] },
     "capital": ["Saint-Pierre"],
-    "altSpellings": [
-      "PM",
-      "Collectivité territoriale de Saint-Pierre-et-Miquelon"
-    ],
+    "altSpellings": ["PM", "Collectivité territoriale de Saint-Pierre-et-Miquelon"],
     "region": "Americas",
     "subregion": "North America",
     "languages": { "fra": "French" },
@@ -18362,14 +18047,7 @@
     "currencies": { "NOK": { "name": "Norwegian krone", "symbol": "kr" } },
     "idd": { "root": "+4", "suffixes": ["7"] },
     "capital": ["Oslo"],
-    "altSpellings": [
-      "NO",
-      "Norge",
-      "Noreg",
-      "Kingdom of Norway",
-      "Kongeriket Norge",
-      "Kongeriket Noreg"
-    ],
+    "altSpellings": ["NO", "Norge", "Noreg", "Kingdom of Norway", "Kongeriket Norge", "Kongeriket Noreg"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "languages": {
@@ -19571,12 +19249,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+3", "suffixes": ["53"] },
     "capital": ["Dublin"],
-    "altSpellings": [
-      "IE",
-      "Éire",
-      "Republic of Ireland",
-      "Poblacht na hÉireann"
-    ],
+    "altSpellings": ["IE", "Éire", "Republic of Ireland", "Poblacht na hÉireann"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "languages": { "eng": "English", "gle": "Irish" },
@@ -19658,12 +19331,7 @@
     "currencies": { "BIF": { "name": "Burundian franc", "symbol": "Fr" } },
     "idd": { "root": "+2", "suffixes": ["57"] },
     "capital": ["Gitega"],
-    "altSpellings": [
-      "BI",
-      "Republic of Burundi",
-      "Republika y'Uburundi",
-      "République du Burundi"
-    ],
+    "altSpellings": ["BI", "Republic of Burundi", "Republika y'Uburundi", "République du Burundi"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "languages": { "fra": "French", "run": "Kirundi" },
@@ -19754,11 +19422,7 @@
     "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
     "idd": { "root": "+1", "suffixes": ["670"] },
     "capital": ["Saipan"],
-    "altSpellings": [
-      "MP",
-      "Commonwealth of the Northern Mariana Islands",
-      "Sankattan Siha Na Islas Mariånas"
-    ],
+    "altSpellings": ["MP", "Commonwealth of the Northern Mariana Islands", "Sankattan Siha Na Islas Mariånas"],
     "region": "Oceania",
     "subregion": "Micronesia",
     "languages": { "cal": "Carolinian", "cha": "Chamorro", "eng": "English" },
@@ -20146,12 +19810,7 @@
     "currencies": { "DKK": { "name": "Danish krone", "symbol": "kr" } },
     "idd": { "root": "+4", "suffixes": ["5"] },
     "capital": ["Copenhagen"],
-    "altSpellings": [
-      "DK",
-      "Danmark",
-      "Kingdom of Denmark",
-      "Kongeriget Danmark"
-    ],
+    "altSpellings": ["DK", "Danmark", "Kingdom of Denmark", "Kongeriget Danmark"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "languages": { "dan": "Danish" },
@@ -20400,12 +20059,7 @@
     },
     "idd": { "root": "+4", "suffixes": ["4"] },
     "capital": ["Saint Helier"],
-    "altSpellings": [
-      "JE",
-      "Bailiwick of Jersey",
-      "Bailliage de Jersey",
-      "Bailliage dé Jèrri"
-    ],
+    "altSpellings": ["JE", "Bailiwick of Jersey", "Bailliage de Jersey", "Bailliage dé Jèrri"],
     "region": "Europe",
     "subregion": "Northern Europe",
     "languages": { "eng": "English", "fra": "French", "nrf": "Jèrriais" },
@@ -20565,11 +20219,7 @@
     "currencies": { "BDT": { "name": "Bangladeshi taka", "symbol": "৳" } },
     "idd": { "root": "+8", "suffixes": ["80"] },
     "capital": ["Dhaka"],
-    "altSpellings": [
-      "BD",
-      "People's Republic of Bangladesh",
-      "Gônôprôjatôntri Bangladesh"
-    ],
+    "altSpellings": ["BD", "People's Republic of Bangladesh", "Gônôprôjatôntri Bangladesh"],
     "region": "Asia",
     "subregion": "Southern Asia",
     "languages": { "ben": "Bengali" },
@@ -20788,11 +20438,7 @@
     "currencies": { "NZD": { "name": "New Zealand dollar", "symbol": "$" } },
     "idd": { "root": "+6", "suffixes": ["4"] },
     "capital": ["Adamstown"],
-    "altSpellings": [
-      "PN",
-      "Pitcairn",
-      "Pitcairn Henderson Ducie and Oeno Islands"
-    ],
+    "altSpellings": ["PN", "Pitcairn", "Pitcairn Henderson Ducie and Oeno Islands"],
     "region": "Oceania",
     "subregion": "Polynesia",
     "languages": { "eng": "English" },
@@ -21045,12 +20691,7 @@
     "currencies": { "VND": { "name": "Vietnamese đồng", "symbol": "₫" } },
     "idd": { "root": "+8", "suffixes": ["4"] },
     "capital": ["Hanoi"],
-    "altSpellings": [
-      "VN",
-      "Socialist Republic of Vietnam",
-      "Cộng hòa Xã hội chủ nghĩa Việt Nam",
-      "Viet Nam"
-    ],
+    "altSpellings": ["VN", "Socialist Republic of Vietnam", "Cộng hòa Xã hội chủ nghĩa Việt Nam", "Viet Nam"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "languages": { "vie": "Vietnamese" },
@@ -21269,11 +20910,7 @@
     "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
     "idd": { "root": "+4", "suffixes": ["9"] },
     "capital": ["Berlin"],
-    "altSpellings": [
-      "DE",
-      "Federal Republic of Germany",
-      "Bundesrepublik Deutschland"
-    ],
+    "altSpellings": ["DE", "Federal Republic of Germany", "Bundesrepublik Deutschland"],
     "region": "Europe",
     "subregion": "Western Europe",
     "languages": { "deu": "German" },
@@ -21546,12 +21183,7 @@
     "currencies": { "ETB": { "name": "Ethiopian birr", "symbol": "Br" } },
     "idd": { "root": "+2", "suffixes": ["51"] },
     "capital": ["Addis Ababa"],
-    "altSpellings": [
-      "ET",
-      "ʾĪtyōṗṗyā",
-      "Federal Democratic Republic of Ethiopia",
-      "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
-    ],
+    "altSpellings": ["ET", "ʾĪtyōṗṗyā", "Federal Democratic Republic of Ethiopia", "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"],
     "region": "Africa",
     "subregion": "Eastern Africa",
     "languages": { "amh": "Amharic" },
@@ -21786,12 +21418,7 @@
     "currencies": { "VUV": { "name": "Vanuatu vatu", "symbol": "Vt" } },
     "idd": { "root": "+6", "suffixes": ["78"] },
     "capital": ["Port Vila"],
-    "altSpellings": [
-      "VU",
-      "Republic of Vanuatu",
-      "Ripablik blong Vanuatu",
-      "République de Vanuatu"
-    ],
+    "altSpellings": ["VU", "Republic of Vanuatu", "Ripablik blong Vanuatu", "République de Vanuatu"],
     "region": "Oceania",
     "subregion": "Melanesia",
     "languages": { "bis": "Bislama", "eng": "English", "fra": "French" },
@@ -22233,22 +21860,7 @@
     },
     "latlng": [60.0, 100.0],
     "landlocked": false,
-    "borders": [
-      "AZE",
-      "BLR",
-      "CHN",
-      "EST",
-      "FIN",
-      "GEO",
-      "KAZ",
-      "PRK",
-      "LVA",
-      "LTU",
-      "MNG",
-      "NOR",
-      "POL",
-      "UKR"
-    ],
+    "borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
     "area": 1.7098242e7,
     "demonyms": {
       "eng": { "f": "Russian", "m": "Russian" },
@@ -22307,12 +21919,7 @@
     "currencies": { "MXN": { "name": "Mexican peso", "symbol": "$" } },
     "idd": { "root": "+5", "suffixes": ["2"] },
     "capital": ["Mexico City"],
-    "altSpellings": [
-      "MX",
-      "Mexicanos",
-      "United Mexican States",
-      "Estados Unidos Mexicanos"
-    ],
+    "altSpellings": ["MX", "Mexicanos", "United Mexican States", "Estados Unidos Mexicanos"],
     "region": "Americas",
     "subregion": "North America",
     "languages": { "spa": "Spanish" },
@@ -22410,11 +22017,7 @@
     "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
     "idd": { "root": "+6", "suffixes": ["92"] },
     "capital": ["Majuro"],
-    "altSpellings": [
-      "MH",
-      "Republic of the Marshall Islands",
-      "Aolepān Aorōkin M̧ajeļ"
-    ],
+    "altSpellings": ["MH", "Republic of the Marshall Islands", "Aolepān Aorōkin M̧ajeļ"],
     "region": "Oceania",
     "subregion": "Micronesia",
     "languages": { "eng": "English", "mah": "Marshallese" },
@@ -23301,11 +22904,7 @@
     "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
     "idd": { "root": "+5", "suffixes": ["03"] },
     "capital": ["San Salvador"],
-    "altSpellings": [
-      "SV",
-      "Republic of El Salvador",
-      "República de El Salvador"
-    ],
+    "altSpellings": ["SV", "Republic of El Salvador", "República de El Salvador"],
     "region": "Americas",
     "subregion": "Central America",
     "languages": { "spa": "Spanish" },
@@ -24136,12 +23735,7 @@
     "currencies": { "TRY": { "name": "Turkish lira", "symbol": "₺" } },
     "idd": { "root": "+9", "suffixes": ["0"] },
     "capital": ["Ankara"],
-    "altSpellings": [
-      "TR",
-      "Turkiye",
-      "Republic of Turkey",
-      "Türkiye Cumhuriyeti"
-    ],
+    "altSpellings": ["TR", "Turkiye", "Republic of Turkey", "Türkiye Cumhuriyeti"],
     "region": "Asia",
     "subregion": "Western Asia",
     "languages": { "tur": "Turkish" },
@@ -24224,13 +23818,7 @@
     "currencies": { "BYN": { "name": "Belarusian ruble", "symbol": "Br" } },
     "idd": { "root": "+3", "suffixes": ["75"] },
     "capital": ["Minsk"],
-    "altSpellings": [
-      "BY",
-      "Bielaruś",
-      "Republic of Belarus",
-      "Белоруссия",
-      "Республика Белоруссия"
-    ],
+    "altSpellings": ["BY", "Bielaruś", "Republic of Belarus", "Белоруссия", "Республика Белоруссия"],
     "region": "Europe",
     "subregion": "Eastern Europe",
     "languages": { "bel": "Belarusian", "rus": "Russian" },
@@ -24333,11 +23921,7 @@
     },
     "idd": { "root": "+2", "suffixes": ["45"] },
     "capital": ["Bissau"],
-    "altSpellings": [
-      "GW",
-      "Republic of Guinea-Bissau",
-      "República da Guiné-Bissau"
-    ],
+    "altSpellings": ["GW", "Republic of Guinea-Bissau", "República da Guiné-Bissau"],
     "region": "Africa",
     "subregion": "Western Africa",
     "languages": { "por": "Portuguese", "pov": "Upper Guinea Creole" },
@@ -24559,11 +24143,7 @@
     "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
     "idd": { "root": "+1", "suffixes": ["787", "939"] },
     "capital": ["San Juan"],
-    "altSpellings": [
-      "PR",
-      "Commonwealth of Puerto Rico",
-      "Estado Libre Asociado de Puerto Rico"
-    ],
+    "altSpellings": ["PR", "Commonwealth of Puerto Rico", "Estado Libre Asociado de Puerto Rico"],
     "region": "Americas",
     "subregion": "Caribbean",
     "languages": { "eng": "English", "spa": "Spanish" },
@@ -24660,12 +24240,7 @@
     "currencies": { "LAK": { "name": "Lao kip", "symbol": "₭" } },
     "idd": { "root": "+8", "suffixes": ["56"] },
     "capital": ["Vientiane"],
-    "altSpellings": [
-      "LA",
-      "Lao",
-      "Lao People's Democratic Republic",
-      "Sathalanalat Paxathipatai Paxaxon Lao"
-    ],
+    "altSpellings": ["LA", "Lao", "Lao People's Democratic Republic", "Sathalanalat Paxathipatai Paxaxon Lao"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "languages": { "lao": "Lao" },
@@ -24804,11 +24379,7 @@
     "currencies": { "JOD": { "name": "Jordanian dinar", "symbol": "د.ا" } },
     "idd": { "root": "+9", "suffixes": ["62"] },
     "capital": ["Amman"],
-    "altSpellings": [
-      "JO",
-      "Hashemite Kingdom of Jordan",
-      "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
-    ],
+    "altSpellings": ["JO", "Hashemite Kingdom of Jordan", "al-Mamlakah al-Urdunīyah al-Hāshimīyah"],
     "region": "Asia",
     "subregion": "Western Asia",
     "languages": { "ara": "Arabic" },
@@ -24932,12 +24503,7 @@
     "currencies": { "MDL": { "name": "Moldovan leu", "symbol": "L" } },
     "idd": { "root": "+3", "suffixes": ["73"] },
     "capital": ["Chișinău"],
-    "altSpellings": [
-      "MD",
-      "Moldova, Republic of",
-      "Republic of Moldova",
-      "Republica Moldova"
-    ],
+    "altSpellings": ["MD", "Moldova, Republic of", "Republic of Moldova", "Republica Moldova"],
     "region": "Europe",
     "subregion": "Eastern Europe",
     "languages": { "ron": "Romanian" },
@@ -25261,14 +24827,7 @@
     },
     "idd": { "root": "+5", "suffixes": ["99"] },
     "capital": ["Willemstad"],
-    "altSpellings": [
-      "CW",
-      "Curacao",
-      "Kòrsou",
-      "Country of Curaçao",
-      "Land Curaçao",
-      "Pais Kòrsou"
-    ],
+    "altSpellings": ["CW", "Curacao", "Kòrsou", "Country of Curaçao", "Land Curaçao", "Pais Kòrsou"],
     "region": "Americas",
     "subregion": "Caribbean",
     "languages": { "eng": "English", "nld": "Dutch", "pap": "Papiamento" },
@@ -25363,13 +24922,7 @@
     "currencies": { "CDF": { "name": "Congolese franc", "symbol": "FC" } },
     "idd": { "root": "+2", "suffixes": ["43"] },
     "capital": ["Kinshasa"],
-    "altSpellings": [
-      "CD",
-      "DR Congo",
-      "Congo-Kinshasa",
-      "Congo, the Democratic Republic of the",
-      "DRC"
-    ],
+    "altSpellings": ["CD", "DR Congo", "Congo-Kinshasa", "Congo, the Democratic Republic of the", "DRC"],
     "region": "Africa",
     "subregion": "Middle Africa",
     "languages": {
@@ -25602,12 +25155,7 @@
     "currencies": { "MMK": { "name": "Burmese kyat", "symbol": "Ks" } },
     "idd": { "root": "+9", "suffixes": ["5"] },
     "capital": ["Naypyidaw"],
-    "altSpellings": [
-      "MM",
-      "Burma",
-      "Republic of the Union of Myanmar",
-      "Pyidaunzu Thanmăda Myăma Nainngandaw"
-    ],
+    "altSpellings": ["MM", "Burma", "Republic of the Union of Myanmar", "Pyidaunzu Thanmăda Myăma Nainngandaw"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
     "languages": { "mya": "Burmese" },
@@ -25803,11 +25351,7 @@
     "currencies": { "WST": { "name": "Samoan tālā", "symbol": "T" } },
     "idd": { "root": "+6", "suffixes": ["85"] },
     "capital": ["Apia"],
-    "altSpellings": [
-      "WS",
-      "Independent State of Samoa",
-      "Malo Saʻoloto Tutoʻatasi o Sāmoa"
-    ],
+    "altSpellings": ["WS", "Independent State of Samoa", "Malo Saʻoloto Tutoʻatasi o Sāmoa"],
     "region": "Oceania",
     "subregion": "Polynesia",
     "languages": { "eng": "English", "smo": "Samoan" },

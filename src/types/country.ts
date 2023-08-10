@@ -39,10 +39,4 @@ export interface Country {
 
 export type Countries = Array<Country>;
 
-export type region =
-  | "Africa"
-  | "Asia"
-  | "Americas"
-  | "Europe"
-  | "Oceania"
-  | "All";
+export type region = "Africa" | "Asia" | "Americas" | "Europe" | "Oceania" | "All";

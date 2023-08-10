@@ -18,23 +18,14 @@ function SearchBox() {
         return prev[0] === undefined
           ? [...countries!].filter(
               (country) =>
-                country.region === region &&
-                country.name.common
-                  .toLowerCase()
-                  .startsWith(target.value.toLowerCase())
+                country.region === region && country.name.common.toLowerCase().startsWith(target.value.toLowerCase())
             )
-          : prev.filter((country) =>
-              country.name.common
-                .toLowerCase()
-                .startsWith(target.value.toLowerCase())
-            );
+          : prev.filter((country) => country.name.common.toLowerCase().startsWith(target.value.toLowerCase()));
       });
       return;
     }
     setSubCountries!(
-      [...countries!].filter((country) =>
-        country.name.common.toLowerCase().startsWith(target.value.toLowerCase())
-      )
+      [...countries!].filter((country) => country.name.common.toLowerCase().startsWith(target.value.toLowerCase()))
     );
   };
 
